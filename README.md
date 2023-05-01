@@ -4,7 +4,7 @@ The current CZ ID ONT pipeline does not include heatmap functionality. This repo
 
 The main functionality is `Make_Nanopore_Heatmap.ipynb`, which takes a reference to a directory containing CZ ID Sample Taxon Reports (downloaded using bulk download functionality) and generates a heatmap with the options for filtering that mimic that of the CZ ID heatmaps.
 
-There are 2 optios for running the notebook...
+There are 2 options for running the notebook...
 
 1. Run locally, using jupyter notebooks; this requires local installation of jupyter and the associated packages
 

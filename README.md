@@ -16,7 +16,7 @@ jupyter notebook  # will open a notebook server
 
 Then, select Make_Nanopore_Heatmap.ipynb to run, then run each cell of the notebook
 
-2. Run via Google colab; this requires not dependency set-up on your part
+2. Run via Google colab; this requires no dependency set-up on your part
 
 * Navigate to https://colab.research.google.com/ (while signed into a Google chrome account)
 * Select the option to access via "GitHub"
